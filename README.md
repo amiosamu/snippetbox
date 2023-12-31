@@ -46,3 +46,5 @@ Update password page:
 ```
 docker-compose up --build
 ```
+
+## Testing
